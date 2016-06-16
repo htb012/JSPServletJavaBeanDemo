@@ -9,7 +9,7 @@ import java.sql.Statement;
 public class DB {
 
 	// 数据库连接RUL
-	private String url = "jdbc:mysql://localhost:3306/db_blog";
+	private String url = "jdbc:mysql://172.17.200.228:3306/db_blog";
 	private String userName = "root";
 	private String password = "Admin123456";
 
